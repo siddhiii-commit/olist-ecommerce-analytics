@@ -1,0 +1,10 @@
+# Do not commit raw or cleaned datasets or local exports
+data/
+*.csv
+*.pbix
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
